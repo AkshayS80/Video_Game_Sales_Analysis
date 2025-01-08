@@ -3,6 +3,8 @@
 ## Introduction  
 This project provides a detailed analysis of global video game sales trends across various regions, platforms, and time periods. The primary objective is to use statistical insights and visualizations to explore patterns, identify best-selling games, and understand sales distributions across different categories.
 
+Access the Power BI file here: [Video Game International Sales Dashboard](https://github.com/AkshayS80/Video_Game_Sales_Analysis/blob/main/PIBproj.pbix)
+
 ## Video Demo
 
 https://github.com/user-attachments/assets/56aeb7ca-c22a-4fc1-9a1b-5baa6a95f393
