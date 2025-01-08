@@ -3,6 +3,10 @@
 ## Introduction  
 This project provides a detailed analysis of global video game sales trends across various regions, platforms, and time periods. The primary objective is to use statistical insights and visualizations to explore patterns, identify best-selling games, and understand sales distributions across different categories.
 
+## Video Demo
+
+https://github.com/user-attachments/assets/56aeb7ca-c22a-4fc1-9a1b-5baa6a95f393
+
 ## Features  
 - **KPI Tiles**:  
   Display key metrics such as Global Sales, Japan Sales, North America Sales, and Europe Sales.
@@ -12,8 +16,10 @@ This project provides a detailed analysis of global video game sales trends acro
   - **Top 10 Games Sold Worldwide**: A column chart ranking the best-selling games based on global copies sold.  
   - **Global Sales by Platform**: A donut chart highlighting the contribution of top gaming platforms to global sales.
 
+![Screenshot 2025-01-08 183051](https://github.com/user-attachments/assets/8274aa5d-4328-4d65-82b7-83595b1820fa)
+
 ## Dataset  
-The dataset used for this analysis was curated from various reliable sources detailing global video game sales data. The dataset includes attributes such as game name, platform, release year, region-specific sales, and global sales.
+The dataset for this analysis was sourced from Kaggle and contains detailed information on video game sales, including attributes such as game name, platform, release year, and region-specific/global sales. You can access the dataset [here](https://www.kaggle.com/code/upadorprofzs/eda-video-game-sales?select=vgsales.csv).
 
 ## Pre-Requisites  
 - **Power BI Software**: Ensure Power BI Desktop is installed to view and interact with the dashboard.  
